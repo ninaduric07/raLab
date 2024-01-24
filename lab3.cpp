@@ -9,10 +9,6 @@
 #include <windows.h>
 #include <random>
 
-//*********************************************************************************
-//	Pocetna tocka Lx[1], Ly[1] Krajnja tocke Lx[2], Ly[2] linije.
-//	Ix - stanje (zadana 1 ili 2 tocka)
-//*********************************************************************************
 
 GLdouble Lx[2], Ly[2];
 GLint Ix;
